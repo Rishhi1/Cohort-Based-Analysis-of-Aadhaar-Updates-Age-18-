@@ -1,0 +1,131 @@
+{
+  "total_features": 41,
+  "available_at_day0": {
+    "count": 21,
+    "percentage": 51.21951219512195,
+    "features": [
+      "address_window_completed",
+      "biometric_is_late",
+      "biometric_missing",
+      "biometric_time_to_update",
+      "biometric_time_to_update_log",
+      "biometric_updates_count",
+      "biometric_window_completed",
+      "current_age",
+      "demographic_updates_count",
+      "district_encoded",
+      "eighteenth_birthday_dow",
+      "eighteenth_birthday_month",
+      "eighteenth_birthday_quarter",
+      "eighteenth_birthday_year",
+      "gender_encoded",
+      "mobile_window_completed",
+      "name_window_completed",
+      "pincode",
+      "state_encoded",
+      "urban_rural_encoded",
+      "years_between_enrolment_and_18"
+    ]
+  },
+  "available_at_day30": {
+    "count": 5,
+    "percentage": 12.195121951219512,
+    "features": [
+      "gap_biometric_to_mobile",
+      "mobile_is_late",
+      "mobile_missing",
+      "mobile_time_to_update",
+      "mobile_time_to_update_log"
+    ]
+  },
+  "available_at_day60": {
+    "count": 5,
+    "percentage": 12.195121951219512,
+    "features": [
+      "address_is_late",
+      "address_missing",
+      "address_time_to_update",
+      "address_time_to_update_log",
+      "gap_mobile_to_address"
+    ]
+  },
+  "available_at_day90": {
+    "count": 7,
+    "percentage": 17.073170731707318,
+    "features": [
+      "avg_gap_between_updates",
+      "gap_address_to_name",
+      "max_gap_between_updates",
+      "name_is_late",
+      "name_missing",
+      "name_time_to_update",
+      "name_time_to_update_log"
+    ]
+  },
+  "requires_future_knowledge": {
+    "count": 21,
+    "percentage": 51.21951219512195,
+    "features": [
+      "address_is_late",
+      "address_missing",
+      "address_time_to_update",
+      "address_time_to_update_log",
+      "avg_gap_between_updates",
+      "biometric_is_late",
+      "biometric_missing",
+      "biometric_time_to_update",
+      "biometric_time_to_update_log",
+      "gap_address_to_name",
+      "gap_biometric_to_mobile",
+      "gap_mobile_to_address",
+      "max_gap_between_updates",
+      "mobile_is_late",
+      "mobile_missing",
+      "mobile_time_to_update",
+      "mobile_time_to_update_log",
+      "name_is_late",
+      "name_missing",
+      "name_time_to_update",
+      "name_time_to_update_log"
+    ]
+  },
+  "truly_available_at_prediction": {
+    "count": 13,
+    "percentage": 31.70731707317073,
+    "features": [
+      "address_window_completed",
+      "biometric_window_completed",
+      "district_encoded",
+      "eighteenth_birthday_dow",
+      "eighteenth_birthday_month",
+      "eighteenth_birthday_quarter",
+      "eighteenth_birthday_year",
+      "gender_encoded",
+      "mobile_window_completed",
+      "name_window_completed",
+      "state_encoded",
+      "urban_rural_encoded",
+      "years_between_enrolment_and_18"
+    ]
+  },
+  "categories": {
+    "demographic": [
+      "district_encoded",
+      "gender_encoded",
+      "state_encoded",
+      "urban_rural_encoded"
+    ],
+    "geographic": [],
+    "temporal": [
+      "address_window_completed",
+      "biometric_window_completed",
+      "eighteenth_birthday_dow",
+      "eighteenth_birthday_month",
+      "eighteenth_birthday_quarter",
+      "eighteenth_birthday_year",
+      "mobile_window_completed",
+      "name_window_completed",
+      "years_between_enrolment_and_18"
+    ]
+  }
+}
