@@ -1,4 +1,4 @@
-#Cohort Basis Analysis of Aadhaar updates (Age:18): Detecting Identity Transition Failures in Aadhaar
+#Cohort-Based Analysis of Aadhaar Updates for the 18+ Population: Detecting Identity Transition Failures in Aadhaar
 
 ## Project Overview
 
