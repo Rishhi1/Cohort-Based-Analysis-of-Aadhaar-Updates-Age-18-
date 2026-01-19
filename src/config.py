@@ -1,5 +1,5 @@
 """
-Configuration module for 18th Birthday Cascade Analysis
+Configuration module for Cohort-Based Analysis of Aadhaar Updates for the 18+ Population
 Defines constants, paths, and hyperparameters for the ML pipeline
 """
 
