@@ -138,9 +138,9 @@ The analysis provides actionable insights for:
 - **Reproducibility**: Random seed fixed for consistent results
 
 ## Author
-
-Machine Learning Engineer + Data Scientist  
-Project for UIDAI-style population-scale dataset analysis
+Japneet Singh 
+Rishi Raj Gautam
+Dhruv
 
 ## License
 
