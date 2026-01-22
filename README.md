@@ -138,8 +138,8 @@ The analysis provides actionable insights for:
 - **Reproducibility**: Random seed fixed for consistent results
 
 ## Author
-Japneet Singh 
-Rishi Raj Gautam
+Japneet Singh,
+Rishi Raj Gautam,
 Dhruv
 
 ## License
